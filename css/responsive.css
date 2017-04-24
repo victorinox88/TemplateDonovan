@@ -1,0 +1,473 @@
+@media (min-width: 1200px){
+	#content-protafolio{
+	margin-top: 0;
+	}
+}
+
+@media (max-width: 1200px){
+#container
+
+ul.navbar-right{
+	margin-right: -30px;
+}
+
+#description h2, 
+#description p{
+	margin-left: 40px;
+}
+
+.content-data{
+	height: auto;
+}
+
+#content-protafolio{
+	margin-top: 0;
+}
+
+}
+
+@media (min-width:300px) and (max-width:766px){
+	.navbar-default .navbar-collapse{
+  		z-index: 10;
+  		position: relative;
+		background-color: rgb(255, 255, 255);
+		width: 100%;
+		margin: 0;
+		border-bottom: 1px solid;
+		border-color: #e7e7e7;
+	}
+
+	.menu-responsivo{
+		display: block;
+	}
+
+	.navbar-right{
+		display: none;
+	}
+
+	#achivement .circle-left,
+	#experience .circle-left{
+		padding-left: 15px;
+	}
+
+	#achivement p {
+    margin-left: 45px;
+    width: 230px;
+    font-weight: normal;
+
+
+	}
+}
+
+@media (min-width : 300px) and (max-width: 991px) {
+
+#description h2, 
+#description p{
+	margin-left: 0px;
+}
+
+#hability h3{
+	margin-left: 15px;
+}
+
+#portafolio{
+	max-height: none;
+}
+
+#content-protafolio{
+	margin-top: 50px;
+}
+
+#portafolio2{
+  margin-top: 10px;
+}
+
+.portfolio-item{
+	margin-bottom: 0;
+}
+
+}
+
+
+@media (min-width : 382px) and (max-width: 991px) {
+#container
+ 
+ a.navbar-brand{
+ 	font-size: 24px;
+ 	padding-left: 36px;
+ }
+
+ .navbar-default .navbar-toggle{
+	margin-right: 14px;
+}
+
+ .bar-boton-subnavbar {
+  width: 80%;
+  margin-left: 55px;
+}
+
+.content-blog-gray .button-blog{
+	margin-top: -50px;
+}
+
+/*.footer-navbar-auxiliar {
+    padding-left: 24%;
+    margin-right: 21%;
+}*/
+
+.button-blog{
+	position: absolute;
+    z-index: 1;
+    margin-left: 30px;
+}
+
+.botonera-blog{
+	padding-left: 109px;
+}
+
+.botonera-blog button.btn{
+	margin-bottom: 20px;
+}
+
+.comments{
+	width: auto;
+}
+
+.tags label{
+	margin-left: 10px;
+}
+
+.border-tags{
+	width: 95%;
+}
+
+#content-bl3 .botonera-blog button.btn-default{
+	float: none;
+}
+
+.testimonial{
+	border-left: 1px solid;
+	border-color: #ccc; 
+}
+
+.testimonial-tittle h3{
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.comment-testimonial img.img-circle,
+.comment-testimonial-end img.img-circle{
+	margin-left: 40%;
+}
+
+#box-private{
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 80px;
+}
+
+#box-startup{
+	padding-right: 15px;
+}
+
+.box-private,
+.box-business{
+	margin-right: 0;
+}
+
+#box-business{
+  padding-right: 15px;
+}
+
+.box-business{
+	margin-left: 0;
+}
+
+#box-business .box-startup-footer{
+  margin-left: 0px;
+}
+
+.button-footer{
+	margin-left: 40%;
+}
+
+/*.box-business-tittle,
+.box-private-tittle,
+.box-startup-tittle{
+	margin-left: 36%;
+}*/
+
+.h3-details{
+	margin-left: 15px;
+}
+
+#contact p{
+	margin-left: 15px;
+}
+
+#contact img{
+	margin-left: 15px;
+}
+
+.panel-content .panel-body{
+	margin-top: 110px;
+}
+
+
+#description>div.col-md-3{
+	padding-left: 35%;
+}
+
+#circle-one-description{
+	text-align: left;
+	padding-left: 60px;
+}
+
+#div-button-footer{
+	padding-left: 0px;
+}
+
+#portafolio{
+	min-height:568px;
+	max-height:none;
+	padding-left: 25%;
+}
+
+.portfolio-item .mascara, 
+.portfolio-item .contenido {
+	width: 92.5%;
+}
+
+#navbar-aux .btn-default-aux{
+	width: 119px;
+}
+
+.portfolio-item-together{
+	margin-left: 120px;
+}
+
+.portfolio3-item-together{
+	margin-left: 110px;
+}
+
+#filter-auxiliar1.home,
+#filter-auxiliar1.home3{
+	margin-left: -61px;
+}
+
+.div-image-blog{
+	padding-right: 30px;
+}
+
+}
+
+
+@media (min-width: 294px) and (max-width: 382px) {
+#container
+
+	a.navbar-brand{
+ 	font-size: 20px;
+ 	padding-left: 30px;
+ }
+
+ .navbar-default .navbar-toggle{
+	margin-right: 14px;
+}
+
+ .bar-boton-subnavbar {
+  width: 80%;
+  margin-left: 55px;
+}
+
+.content-blog-gray .button-blog{
+	margin-top: -50px;
+}
+
+.div-image-blog{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.button-blog{
+	position: absolute;
+    z-index: 1;
+    margin-left: 15px;
+}
+
+.botonera-blog{
+	padding-left: 76px;
+}
+
+.botonera-blog button.btn{
+	margin-bottom: 20px;
+}
+
+.botonera-blog .btn-default{
+	float: none;
+}
+
+#content-bl3 .botonera-blog{
+	padding-left: 39px;
+}
+
+.comments{
+	width: auto;
+}
+
+.tags label{
+	margin-left: 10px;
+}
+
+.border-tags{
+	width: 95%;
+}
+
+.panel-comment input, 
+.panel-comment textarea{
+	width: 215px;
+}
+
+.testimonial{
+	border-left: 1px solid;
+	border-color: #ccc; 
+}
+
+.testimonial-tittle h3{
+  margin-top: 0;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.comment-testimonial img.img-circle,
+.comment-testimonial-end img.img-circle{
+	margin-left: 30%;
+}
+
+#box-private{
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 80px;
+}
+
+#box-startup{
+	padding-right: 15px;
+}
+
+.box-private,
+.box-business{
+	margin-right: 0;
+}
+
+#box-business{
+  padding-right: 15px;
+}
+
+.box-business{
+	margin-left: 0;
+}
+
+#box-business .box-startup-footer{
+  margin-left: 0px;
+}
+
+.button-footer{
+	margin-left: 20%;
+}
+
+/*.box-startup-tittle,
+.box-business-tittle,
+.box-private-tittle{
+	margin-left: 15%;
+}*/
+
+.h3-details{
+	margin-left: 15px;
+}
+
+#contact p{
+	margin-left: 15px;
+}
+
+#contact img{
+	margin-left: 15px;
+}
+
+.panel-content .panel-body{
+	margin-top: 110px;
+}
+
+#description>div.col-md-3{
+	padding-left: 20%;
+}
+
+#circle-one,
+#circle-three{
+	padding-left: 15px;
+	padding-right: 0px;
+}
+
+
+#circle-one-description,
+#circle-three-description{
+	padding-left: 15px;
+}
+
+#circle-two,
+#circle-four{
+	padding-left: 0px;
+}
+
+#circle-two-description,
+#circle-four-description{
+	padding-left: 24px;
+}
+
+#div-button-footer{
+	padding-left: 6px;
+}
+
+.portfolio-item{
+	margin-bottom: 0;
+}
+
+#content-protafolio{
+	margin-top: 50px;
+}
+
+#filter-auxiliar1.home2{
+	margin-right: 15px;
+}
+
+.portfolio2{
+	margin-right: 15px;
+}
+
+.portfolio3-item-together{
+	padding-right: 15px;
+}
+
+#filter-auxiliar1.home,
+#filter-auxiliar1.home3{
+	margin-left: -51px;
+}
+
+#portafolio3{
+	margin-top: 0px;
+}
+
+.portfolio3-item-together .mascara, 
+.portfolio3-item-together .contenido{
+	width: 95%;
+}
+
+.comment-header{
+	margin-top: 0px;
+}
+
+.box-private-tittle h2,
+.box-startup-tittle h2,
+.box-business-tittle h2{
+  font-size: 25px;
+}
+
+}

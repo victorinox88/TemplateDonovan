@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important; /* delete if IE6 support is not needed */
+  height: 100%; /* delete if IE6 support is not needed */
+  margin: 0 auto -80px; /* The bottom margin should be the negative value of the footer's height (including any padding or borders you may have added to it) */
+}
+
+.footer, .push {
+  height: 80px;
+}
